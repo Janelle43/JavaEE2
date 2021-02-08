@@ -24,7 +24,7 @@
         <button type="submit">Register</button>
 
         <a href ="login.jsp.jsp"> У вас есть аккаунт? <b> Login </b> </a>
-
+        <a href ="welcome.jsp"> <b> Welcome </b> </a>
     </div>
 </form>
 </body>

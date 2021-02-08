@@ -11,7 +11,7 @@
     <title> Login</title>
 </head>
 <body>
-<form>
+<form action="servlet1" method="post">
     <div class="container">
         <label>Username : </label>
         <input type="text" placeholder="Enter Username" name="username" >

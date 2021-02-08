@@ -19,6 +19,7 @@
         <input type="password" placeholder="Enter Password" name="password" >
         <button type="submit">Login</button>
         <a href ="register.jsp"> <b> Register </b> </a>
+        <a href ="welcome.jsp"> <b> Welcome </b> </a>
 
     </div>
 </form>

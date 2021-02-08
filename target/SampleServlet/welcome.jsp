@@ -11,6 +11,8 @@
     <title>Welcome page</title>
 </head>
 <body>
-
+<p> Hello </p>
+<a href ="register.jsp"> <b> Register </b> </a>
+<a href ="login.jsp"> <b> Login </b> </a>
 </body>
 </html>
